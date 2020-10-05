@@ -1,0 +1,5 @@
+Gitの練習
+gitgitgit
+git add
+git commit
+git rm
